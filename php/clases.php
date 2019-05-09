@@ -1,10 +1,6 @@
 <?php
-
-
-
 class Alumno
 {
-
     public $correo;
     public $nombre;
     public $carnet;

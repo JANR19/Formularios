@@ -1,7 +1,8 @@
-
-<?php include('./model/head.php');
-?>
+<?php include('./model/head.php'); ?>
 <div class="container">
+
+    
+
     <h3>Alumnos</h3>
     <p class="lead">Llene el formulario con los datos del estudiante</p>
 

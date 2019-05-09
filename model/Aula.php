@@ -15,7 +15,7 @@
 
             <div class="form-group">
                 <label for="capacidad">Capacidad</label>
-                <input type="password" class="form-control" id="capacidad" name="capacidad" min="1" max="50" placeholder="Ingrese la capacidad" required>
+                <input type="number" class="form-control" id="capacidad" name="capacidad" min="1" max="50" placeholder="Ingrese la capacidad" required>
             </div>
 
 
